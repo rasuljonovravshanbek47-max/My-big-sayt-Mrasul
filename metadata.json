@@ -1,0 +1,8 @@
+{
+  "name": "Remix MRASUL UNIVERSE",
+  "description": "ONE UNIVERSE. UNLIMITED ENTERTAINMENT. A futuristic gaming and music entertainment platform with 3D experiences, playable games, global search, and licensed music streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
